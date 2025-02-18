@@ -2,6 +2,12 @@
 This project aims to develop a web application for seed segmentation using a machine learning model. 
 The application consists of a backend server that handles model inference and a frontend interface for user interaction.
 
+
+
+https://github.com/user-attachments/assets/545b0b66-775b-409d-b589-ff80c72b4efb
+
+
+
 The repository is organized into two main directories:
 
 - backend: Contains the server-side code responsible for processing images and performing seed segmentation using a machine learning model.
